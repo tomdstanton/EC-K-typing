@@ -1,7 +1,7 @@
-LOCUS       KL110_ERZ24118500                    15836 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL110_GCA_964037185                    15836 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24118500
+ACCESSION   GCA_964037185
 VERSION     KL110_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -336,10 +336,10 @@ ORIGIN
     15721 atttgacgtg tggtgagtat agaattagtt tgcatgtgta ttataattac aatgagttca
     15781 tatacccgtt ggataaaaag atcatcgtgt cttcaggtaa tgttgtcgtg atttga
 //
-LOCUS       KL111_ERZ24115395                    18843 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL111_GCA_964046125                    18843 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24115395
+ACCESSION   GCA_964046125
 VERSION     KL111_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -732,10 +732,10 @@ ORIGIN
     18781 tatttctcgt agaaataatg cctctacggt gactttctgg acttcaaatc cacttcttgc
     18841 cat
 //
-LOCUS       KL112_ERZ24123960                    14445 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL112_GCA_964050255                    14445 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24123960
+ACCESSION   GCA_964050255
 VERSION     KL112_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -1674,10 +1674,10 @@ ORIGIN
     13861 agcgtgttcg tatttctcgt agaaataatg cctctacggt gactttctgg acttcaaatc
     13921 cacttcttgc cat
 //
-LOCUS       KL115_ERZ24113780                    17567 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL115_GCA_964038575                    17567 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24113780
+ACCESSION   GCA_964038575
 VERSION     KL115_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -2043,10 +2043,10 @@ ORIGIN
     17461 atcgcccaca aataccccag acgaaactta ccaaaacgtg ttcgtatttc tcgtagaaat
     17521 aatgcctcta cggtgacttt ctggacttca aatccacttc ttgccat
 //
-LOCUS       KL116_ERZ24124531                    13942 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL116_GCA_964050505                    13942 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24124531
+ACCESSION   GCA_964050505
 VERSION     KL116_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -2340,10 +2340,10 @@ ORIGIN
     13861 acttaccaaa gcgtgttcgt atttctcgta gaaataatgc ctctacggtg actttctgga
     13921 cttcaaatcc acttcttgcc at
 //
-LOCUS       KL117_ERZ24123693                    14324 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL117_GCA_964047655                    14324 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24123693
+ACCESSION   GCA_964047655
 VERSION     KL117_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -2643,10 +2643,10 @@ ORIGIN
     14221 attctataaa acctgataac ctgaggtata aaaatgattt aattagggtt ttagatatta
     14281 tttataaaag ttatagcgaa ttaattaaag aattaaagaa ttaa
 //
-LOCUS       KL118_ERZ24117328                    15332 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL118_GCA_964041045                    15332 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24117328
+ACCESSION   GCA_964041045
 VERSION     KL118_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -3249,10 +3249,10 @@ ORIGIN
     12841 aatcgcccac aaatatccca gacggaactt accaaagcgt gttcgtattt ctcgtagaaa
     12901 taatgcctct acggtgactt tctggacttc aaatccactt cttgccat
 //
-LOCUS       KL120_ERZ24117759                    14254 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL120_GCA_964038565                    14254 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24117759
+ACCESSION   GCA_964038565
 VERSION     KL120_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -3551,10 +3551,10 @@ ORIGIN
     14161 atcccagacg gaacttacca aagcgtgttc gtatttctcg tagaaataat gcctctacgg
     14221 tgactttctg gacttcaaat ccacttcttg ccat
 //
-LOCUS       KL121_ERZ24124658                    11712 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL121_GCA_964053085                    11712 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24124658
+ACCESSION   GCA_964053085
 VERSION     KL121_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -3807,10 +3807,10 @@ ORIGIN
     11641 gcgtgttcgt atttctcgta gaaataatgc ctctacggtg actttctgga cttcaaatcc
     11701 acttcttgcc at
 //
-LOCUS       KL122_ERZ24120237                    14816 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL122_GCA_964045655                    14816 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24120237
+ACCESSION   GCA_964045655
 VERSION     KL122_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -4130,10 +4130,10 @@ ORIGIN
     14701 ggttcgagaa tcgcccacag atatcccaga cggaacttac caaagcgtgt tcgtatttct
     14761 cgtagaaata atgcctctac ggtgactttc tggacttcaa atccacttct tgccat
 //
-LOCUS       KL123_ERZ24118717                    15051 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL123_GCA_964038935                    15051 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24118717
+ACCESSION   GCA_964038935
 VERSION     KL123_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -4450,10 +4450,10 @@ ORIGIN
     14941 gagaatcgcc cacagatatc ccagacggaa cttaccaaag cgtgttcgta tttctcgtag
     15001 aaataatgcc tctacggtga ctttctggac ttcaaatcca cttcttgcca t
 //
-LOCUS       KL124_ERZ24122877                    14820 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL124_GCA_964049275                    14820 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24122877
+ACCESSION   GCA_964049275
 VERSION     KL124_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -5111,10 +5111,10 @@ ORIGIN
     16141 tcgagaatcg cccacagata tcccagacgg aacttaccaa agcgtgttcg tatttctcgt
     16201 agaaataatg cctctacggt gactttctgg acttcaaatc cacttcttgc cat
 //
-LOCUS       KL126_ERZ24115961                    17450 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL126_GCA_964044195                    17450 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24115961
+ACCESSION   GCA_964044195
 VERSION     KL126_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -5478,10 +5478,10 @@ ORIGIN
     17341 agaatcgccc atagatatcc cagacggaac ttaccaaagc gtgttcgtat ttctcgtaga
     17401 aataatgcct ctacggtgac tttctggact tcaaatccac ttcttgccat
 //
-LOCUS       KL127_ERZ24117066                    18342 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL127_GCA_964042775                    18342 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24117066
+ACCESSION   GCA_964042775
 VERSION     KL127_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -7143,10 +7143,10 @@ ORIGIN
     17581 ttcgtatttc tcgtagaaat aatgcctcta cggtgacttt ctggacttca aatccacttc
     17641 ttgccat
 //
-LOCUS       KL133_ERZ24116432                    14635 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL133_GCA_964049825                    14635 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24116432
+ACCESSION   GCA_964049825
 VERSION     KL133_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -7455,10 +7455,10 @@ ORIGIN
     14521 gttcgagaat cgcccacaga tatccaagac gaaacttacc aaagcgtgtt cgtatttctc
     14581 gtagaaataa tgcctctacg gtgactttct ggacttcaaa tccacttctt gccat
 //
-LOCUS       KL134_ERZ24113830                    14038 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL134_GCA_964044685                    14038 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24113830
+ACCESSION   GCA_964044685
 VERSION     KL134_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -8045,10 +8045,10 @@ ORIGIN
     13321 aactctcgta aaaagagagc atgaacagcg gctttctgaa cttcaaatcc acttcttgcc
     13381 at
 //
-LOCUS       KL137_ERZ24117881                    14186 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL137_GCA_964038275                    14186 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24117881
+ACCESSION   GCA_964038275
 VERSION     KL137_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -8351,10 +8351,10 @@ ORIGIN
     14101 gtgacgatta tctgtttgat tttttttata tctatttttt tctcacacgc actcttcatc
     14161 tttcctgaag taattatctt attcat
 //
-LOCUS       KL138_ERZ24123974                    16501 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL138_GCA_964050115                    16501 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24123974
+ACCESSION   GCA_964050115
 VERSION     KL138_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -9304,10 +9304,10 @@ ORIGIN
     14281 ttcgagaatc gcccacagat atccaagacg aaacttacca aagcgtgttc gtatttctcg
     14341 tagaaataat gcctctacgg tgactttctg gacttcaaat ccacttcttg ccat
 //
-LOCUS       KL142_ERZ24121880                    15421 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL142_GCA_964052785                    15421 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24121880
+ACCESSION   GCA_964052785
 VERSION     KL142_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -10751,10 +10751,10 @@ ORIGIN
     18301 ccaaagcgtg ttcgtatttc tcgtagaaat aatgcctcta cggtgacttt ctggacttca
     18361 aatccacttc ttgccat
 //
-LOCUS       KL148_ERZ24124537                    20999 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL148_GCA_964052375                    20999 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24124537
+ACCESSION   GCA_964052375
 VERSION     KL148_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -11912,10 +11912,10 @@ ORIGIN
     15721 tcccagacgg aacttaccaa agcgtgttcg tatttctcgt agaaataatg cctctacggt
     15781 gactttctgg acttcaaatc cacttcttgc cat
 //
-LOCUS       KL154_ERZ24125854                    17716 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL154_GCA_964055465                    17716 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24125854
+ACCESSION   GCA_964055465
 VERSION     KL154_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -12654,10 +12654,10 @@ ORIGIN
     17281 gagggttcga gaatcgccca caaatatccc agacggaact taccaaagcg tgttcgtatt
     17341 tctcgtagaa ataatgcctc tacggtgact ttctggactt caaatccact tcttgccat
 //
-LOCUS       KL156_ERZ24115709                    20314 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL156_GCA_964040975                    20314 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24115709
+ACCESSION   GCA_964040975
 VERSION     KL156_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -13078,10 +13078,10 @@ ORIGIN
     20221 atcccagacg gaacttacca aagcgtgttc gtatttctcg tagaaataat gcctctacgg
     20281 tgactttctg gacttcaaat ccacttcttg ccat
 //
-LOCUS       KL157_ERZ24117455                    19208 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL157_GCA_964038965                    19208 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24117455
+ACCESSION   GCA_964038965
 VERSION     KL157_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -13475,10 +13475,10 @@ ORIGIN
     19141 gttcgtattt ctcgtagaaa taatgcctct acggtgactt tctggacttc aaatccactt
     19201 cttgccat
 //
-LOCUS       KL159_ERZ24118911                    17960 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL159_GCA_964044845                    17960 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24118911
+ACCESSION   GCA_964044845
 VERSION     KL159_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -14918,10 +14918,10 @@ ORIGIN
     17221 tgttcgtatt tctcgtagaa ataatgcctc tacggtgact ttctggactt caaatccact
     17281 tcttgccat
 //
-LOCUS       KL167_ERZ24123486                    15503 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL167_GCA_964054585                    15503 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24123486
+ACCESSION   GCA_964054585
 VERSION     KL167_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -15252,10 +15252,10 @@ ORIGIN
     15421 actttgatga attcatatat cctttaaata aaagaataat tgtacactca aataacatct
     15481 ctattataaa ccatgaaggg taa
 //
-LOCUS       KL169_ERZ24115930                    15804 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL169_GCA_964048365                    15804 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24115930
+ACCESSION   GCA_964048365
 VERSION     KL169_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -19042,10 +19042,10 @@ ORIGIN
     26761 actgtttaag aagtttcgtg aatatttatt gatgaagacg caaattaatg ctgtttatta
     26821 tggtgtaaaa tcaaaaagca atagaaggtc cgcattccta aacggtagca gatga
 //
-LOCUS       KL147_ERZ24125319                    28047 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL147_GCA_964056055                    28047 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24125319
+ACCESSION   GCA_964056055
 VERSION     KL147_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -19606,10 +19606,10 @@ ORIGIN
     27961 ttgatgaaga cgcaaattaa tgctgtttat tatggtgtaa aatcaaaaag caatagaagg
     28021 tccgcattcc taaacggtag cagatga
 //
-LOCUS       KL150_ERZ24118502                    25306 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL150_GCA_964044245                    25306 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24118502
+ACCESSION   GCA_964044245
 VERSION     KL150_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -21000,10 +21000,10 @@ ORIGIN
     25441 cggtaagtcc gactggctta acgtcccgac cgaactcccc ctgccggatt ctattatcga
     25501 ttccgaactc gaacgctaa
 //
-LOCUS       KL158_ERZ24117861                    13629 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL158_GCA_964038515                    13629 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster.
-ACCESSION   ERZ24117861
+ACCESSION   GCA_964038515
 VERSION     KL158_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -25868,10 +25868,10 @@ ORIGIN
     18001 cctgctctac aacacgcaga tcaacgccgt gttttacggt aagtccgact ggcttaacgt
     18061 cccgaccgaa ctccccctgc cggattctat tatcgattcc gaactcgaac gctaa
 //
-LOCUS       KL12_ERZ24115694                     19379 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL12_GCA_964041105                     19379 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K12.
-ACCESSION   ERZ24115694
+ACCESSION   GCA_964041105
 VERSION     KL12_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -26590,10 +26590,10 @@ ORIGIN
     15361 atatcccaga cggaacttac caaagcgtgt tcgtatttct cgtagaaata atgcctctac
     15421 ggtgactttc tggacttcaa atccacttct tgccat
 //
-LOCUS       KL14_ERZ24119801                     13933 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL14_GCA_964036905                     13933 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K14.
-ACCESSION   ERZ24119801
+ACCESSION   GCA_964036905
 VERSION     KL14_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -27283,10 +27283,10 @@ ORIGIN
     18121 ctggttctaa tacagcccat aaataaccca agcgatattt gccaaaccta gttctaagct
     18181 cacgtaaaaa tagagcatga acggcggctt tctggacttc aaatccactt cttgccat
 //
-LOCUS       KL16_ERZ24115561                     14476 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL16_GCA_964043075                     14476 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K16.
-ACCESSION   ERZ24115561
+ACCESSION   GCA_964043075
 VERSION     KL16_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -28579,10 +28579,10 @@ ORIGIN
     14701 aacttaccaa agcgtgttcg tatttctcgt agaaataatg cctctacggt gactttctgg
     14761 acttcaaatc cacttcttgc cat
 //
-LOCUS       KL24_ERZ24113823                     15345 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL24_GCA_964052925                     15345 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K24.
-ACCESSION   ERZ24113823
+ACCESSION   GCA_964052925
 VERSION     KL24_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -29280,10 +29280,10 @@ ORIGIN
     17101 cacagatatc ccagacggaa cttaccaaag cgtgttcgta tttctcgtag aaataatgcc
     17161 tctacggtga ctttctggac ttcaaatcca cttcttgcca t
 //
-LOCUS       KL3_ERZ24115085                      28591 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL3_GCA_964054305                      28591 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K3.
-ACCESSION   ERZ24115085
+ACCESSION   GCA_964054305
 VERSION     KL3_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -29867,10 +29867,10 @@ ORIGIN
     28501 tttattgatg aagacgcaaa ttaatgctgt ttattatggt gtaaaatcaa aaagcaatag
     28561 aaggtccgca ttcctaaacg gtagcagatg a
 //
-LOCUS       KL4_ERZ24119942                      21650 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL4_GCA_964038165                      21650 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K4.
-ACCESSION   ERZ24119942
+ACCESSION   GCA_964038165
 VERSION     KL4_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -30763,10 +30763,10 @@ ORIGIN
     21361 tatttctcgt agaaataatg cctctacggt gactttctgg acttcaaatc cacttcttgc
     21421 cat
 //
-LOCUS       KL53_ERZ24125771                     19946 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL53_GCA_964056125                     19946 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K53.
-ACCESSION   ERZ24125771
+ACCESSION   GCA_964056125
 VERSION     KL53_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -31549,10 +31549,10 @@ ORIGIN
     17461 tcgcccacaa atatcccaga cggaacttac caaagcgtgt tcgtatttct cgtagaaata
     17521 atgcctctac ggtgactttc tggacttcaa atccacttct tgccat
 //
-LOCUS       KL7_ERZ24123698                      18647 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL7_GCA_964052145                      18647 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K7.
-ACCESSION   ERZ24123698
+ACCESSION   GCA_964052145
 VERSION     KL7_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -31946,10 +31946,10 @@ ORIGIN
     18541 atcgcccaca aatatcccag acggaactta ccaaagcgtg ttcgtatttc tcgtagaaat
     18601 aatgcctcta cggtgacttt ctggacttca aatccacttc ttgccat
 //
-LOCUS       KL82_ERZ24117436                     14654 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL82_GCA_964037765                     14654 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K82.
-ACCESSION   ERZ24117436
+ACCESSION   GCA_964037765
 VERSION     KL82_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
@@ -33512,10 +33512,10 @@ ORIGIN
     23041 ttattgatga agacgcaaat taatgctgtt tattatggtg taaaatcaaa aagcaataga
     23101 aggtccgcat tcctaaacgg tagcagatga
 //
-LOCUS       KL98_ERZ24114480                     26930 bp    DNA     linear   UNK 06-NOV-2025
+LOCUS       KL98_GCA_964040995                     26930 bp    DNA     linear   UNK 06-NOV-2025
 DEFINITION  Escherichia coli DNA, capsular polysaccharide synthesis gene
             cluster, serotype: K98.
-ACCESSION   ERZ24114480
+ACCESSION   GCA_964040995
 VERSION     KL98_v2
 COMMENT     Annotated using Bakta v1.10.4 and panaroo v1.5.2 from
             https://github.com/oschwengers/bakta and
