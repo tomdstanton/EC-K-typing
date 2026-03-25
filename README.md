@@ -32,10 +32,10 @@ K-typing database is formatted for use with the tool Kaptive<sup>[1]</sup> versi
 
 Quick start: kaptive assembly EC-K-typing_group2and3_v3.0.0.gbk your_assembly.fasta
 
-For more information read https://kaptive.readthedocs.io/en/latest/
+For more information, read https://kaptive.readthedocs.io/en/latest/
 
 ### Cite
-Gladstone, R. A. et al. Groups 2 and 3 ABC-transporter-dependent capsular K-loci contribute significantly to variation in the invasive potential of _Escherichia coli_. 2025 medRxiv https://doi.org/10.1101/2024.11.22.24317484
+Gladstone, R. A. et al. Identification of transporter-dependent capsular loci associated with the invasive potential of _Escherichia coli_. 2026 Nature Microbiology. https://www.nature.com/articles/s41564-026-02283-w 
 
 Stanton TD, Hetland MAK, Löhr IH, Holt KE, Wyres KL. Fast and accurate in silico antigen typing with Kaptive 3. Microb Genom 2025;11:001428.
 
