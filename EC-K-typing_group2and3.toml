@@ -1,6 +1,6 @@
 name = "Escherichia_coli_Group_2_and_3_K"
 keyword = "ecoli_g23_k"
-genbank = "EC-K-typing_group2and3_v3.0.0.gbk"
+genbank = "EC-K-typing_group2and3.gbk"
 organism = "Escherichia coli"
 taxon = 562
 antigen = "Capsular polysaccharide"
